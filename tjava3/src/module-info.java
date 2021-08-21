@@ -1,0 +1,2 @@
+module tjava3 {
+}
